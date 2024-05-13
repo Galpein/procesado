@@ -1,1 +1,1 @@
-print("Me gutsaria follarme a sofiag.luo")
+print("Me gustaria follarme a sofiag.luo")
